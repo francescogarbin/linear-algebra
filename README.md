@@ -7,5 +7,4 @@
 
 $ uv run jupyter lab --no-browser --ip="0.0.0.0"
 
-
-
+The project is designed not to need any .venv activation, you should not need it.
