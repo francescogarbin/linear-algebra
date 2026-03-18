@@ -1,15 +1,17 @@
 [project]
 name = "linear-algebra"
 version = "0.1.0"
-description = "Add your description here"
+description = "Literate programming on AiGrading DeepGrade"
 readme = "README.md"
 requires-python = "==3.12.12"
 dependencies = [
+    "pip",
     "jupyterlab",
     "ipykernel",
     "pandas",
     "numpi",
     "matplotlib",
     "httpx",
-    "requests"
+    "requests",
+    "ipywidgets>=8.1.8",
 ]
