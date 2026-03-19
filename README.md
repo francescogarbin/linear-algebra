@@ -1,3 +1,8 @@
+### Literate programming on Linear Algebra
+
+A set of jupyter notebooks for tinkering and playing with LateX, Python and the corpus of Linear Algebra, mainly folling lessons and books from Gilbert Strand. 
+
+
 ### Project setup
 
 1. Clone project from GitHub.com
